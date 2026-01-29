@@ -12,6 +12,7 @@ KiviBoardGame delivers a full Java Swing adaptation of the dice strategy board g
 - Team Size: Solo Developer  
 
 Demo Video-https://youtu.be/_-S2DVjqv3M?si=x7RK4brk-IgvsSm_
+
 Download Jar File-https://youtu.be/_-S2DVjqv3M?si=x7RK4brk-IgvsSm_
 
 <img width="755" height="421" alt="HeroScreen" src="https://github.com/user-attachments/assets/e92bfd1e-fb68-435c-b610-f4e131b68741" />
