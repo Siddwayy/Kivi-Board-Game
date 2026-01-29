@@ -68,7 +68,7 @@ Configure 2–4 players: human/AI (Easy/Hard), names, colors, vision mode, and b
 ### Core Gameplay Loop
 Roll 6 dice (up to 3 times) → grid highlights pattern matches → place stone → live stats update → next player. 10 rounds to win!
 
-<img width="924" height="146" alt="DicePatterns" src="https://github.com/user-attachments/assets/ef28e770-b725-4877-afd1-d2962831d6fe" />
+<img width="1078" height="161" alt="DicePatterns" src="https://github.com/user-attachments/assets/573f6aeb-d2f3-4367-9781-b7e17d15582c" />
 <img width="770" height="761" alt="ActiveGameplay" src="https://github.com/user-attachments/assets/2d684b13-b136-4a2f-b899-91d40f145d68" />
 
 
