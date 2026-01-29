@@ -75,7 +75,8 @@ Roll 6 dice (up to 3 times) → grid highlights pattern matches → place stone 
 ### Player Stats & UI
 Real-time panels show names, colors (R/G/B/W), stones left, and scores – only the current player can act.
 
-![PlayerInfo](https://github.com/user-attachments/assets/74a3e696-23ab-433d-8138-89fa28f43e78)
+<img width="281" height="846" alt="PlayerInfo" src="https://github.com/user-attachments/assets/a36373c7-962e-4b08-83ff-172882677fab" />
+
 
 
 ### Save/Load Feature
