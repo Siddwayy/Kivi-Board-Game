@@ -61,7 +61,8 @@ Download Jar File-https://drive.google.com/file/d/1qtlXPWwPTnp1OaDCW8HUraQ7EOuCG
 ### Setup & Main Menu
 Configure 2–4 players: human/AI (Easy/Hard), names, colors, vision mode, and backgrounds via the MainMenu.
 
-<img width="844" height="761" alt="MainMenu" src="https://github.com/user-attachments/assets/b6b292b8-18d1-47bf-9e0c-8b089e1d14e5" />
+![Jdk-25 0 22026 01 29-14 04 00 19-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f415cd1f-27a4-4837-82c8-5669c59f223c)
+
 
 
 ### Core Gameplay Loop
